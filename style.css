@@ -1,0 +1,28 @@
+body{
+    background-image:url("doodle.jpg") ;
+background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px orangered;
+    margin: 0px;
+    }
+.note{
+    font-size: 15px;
+    color: red;
+}
+.footer{
+    bottom: 0;
+    position:fixed;
+    background-color: gray;
+    color: whitesmoke;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(red, green, blue);
+}
